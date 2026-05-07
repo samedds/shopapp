@@ -136,7 +136,7 @@ shopapp/
 
 # Installation & Setup
 # Clone Repository
-git clone https://github.com/sam-edds/shopapp.git
+git clone https://github.com/samedds/shopapp.git
 cd shopapp
 
 # Backend Setup (Django)
