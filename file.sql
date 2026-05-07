@@ -1,0 +1,5 @@
+-- PlanetScale automatically handles:
+- Connection pooling
+- Backups
+- Scaling
+- Security
